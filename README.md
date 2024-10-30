@@ -22,7 +22,6 @@ Algorithms:
 Traditional Machine Learning Models:
 
 Random Forest (RF),
-Support Vector Machine (SVM),
 XGBoost,
 AdaBoost,
 Logistic Regression,
