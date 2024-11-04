@@ -1,6 +1,8 @@
 # A survey of Malware detection using machine learning models
 
-Malware Detection Project
+Abstract:
+Malware detection remains a critical challenge in cybersecurity, as attackers constantly evolve tactics to evade defences. This paper surveys and analyses traditional machine learning and deep learning techniques for malware detection, comparing their effectiveness on two distinct datasets: EMBER 2018, covering malware attacks from 2006 to 2018, and CIC-EvasivePDF2022, which focuses on recent evasive PDF malware samples. Through a comprehensive examination of traditional machine learning models such as Random Forest, XGBoost, AdaBoost, Logistic Regression, and K Nearest Neighbours, alongside deep learning models including Convolutional Neural Networks, Multi-Layer Perceptrons, RNN-LSTM combinations, and Transformer architectures, each model’s accuracy, adaptability, and capacity to handle imbalanced datasets, an inherent challenge in cybersecurity, are evaluated. Additionally, ensemble methods such as stacking and voting classifiers are explored to enhance model performance by combining the strengths of machine learning and neural network approaches. The findings reveal that machine learning models perform exceptionally well on structured malware data, achieving accuracies of 99.6% on EMBER and 99.3% on CIC-EvasivePDF2022. In contrast, deep learning models demonstrate advantages in detecting evasive, complex malware, with CNN and RNN-LSTM models achieving accuracies up to 98.1% and 96.2% on CIC-EvasivePDF2022, respectively. Ensemble methods are also highly effective, with voting classifier achieving 99.1% accuracy on CIC-EvasivePDF2022. These results suggest that both machine learning and deep learning approaches offer a robust solution to the diverse challenges of malware detection.
+
 
 Overview
 
